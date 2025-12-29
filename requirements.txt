@@ -19,3 +19,6 @@ aiofiles==25.1.0
 faiss-cpu==1.13.2
 pypdf==6.5.0
 python-dotenv==1.2.1
+
+# --- More ---
+-e .
